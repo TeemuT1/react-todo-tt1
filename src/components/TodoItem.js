@@ -1,6 +1,7 @@
 import {Table, Checkbox, Button } from 'semantic-ui-react';
 import React from 'react';
 
+
 //can also restructure props immediately
 //const TodoItem = ({todo, handleDelete, handleToggle}) => {
 export const TodoItem = props => {
