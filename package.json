@@ -43,6 +43,6 @@
   "devDependencies": {
     "gh-pages": "^3.1.0"
   },
-  "homepage": "https://teemut1.github.io/react-todo-tt1/"
+  "homepage": "."
 
 }
