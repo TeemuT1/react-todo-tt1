@@ -17,11 +17,11 @@ export const TodoItem = props => {
         <Table.Cell>
             {todo.title}
             <Button
-                color="red"
+                color="orange"
                 icon="trash"
                 floated="right"
                 compact
-                size="small"
+                size="medium"
                 onClick={ handleDelete }
  
             />

@@ -63,10 +63,12 @@ handleInputChange(event){
 
 handleNewTodoKeyDown = event => {
     if (this.state.todos.length >= 11){
+        //no more than 10 todos in the list
         return
     }
 
     if(event.keyCode !== 13){
+        //13 is return key
         return
     }
     event.preventDefault()

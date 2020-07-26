@@ -1,14 +1,24 @@
 {
   "todos": [
     {
-      "title": "kaksi",
+      "title": "Learn react",
       "completed": false,
-      "id": 4
+      "id": 1
     },
     {
-      "title": "kolme",
+      "title": "Learn python",
       "completed": false,
-      "id": 5
+      "id": 2
+    },
+    {
+      "title": "Learn jquery",
+      "completed": false,
+      "id": 3
+    },
+    {
+      "title": "Click the counter test button above the input box",
+      "completed": false,
+      "id": 4
     }
   ]
 }
