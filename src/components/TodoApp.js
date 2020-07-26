@@ -179,28 +179,6 @@ render() {
         </div> 
     
     )
-
-
-   /* return React.createElement(
-        'div', {
-            className: 'app',
-        },
-        React.createElement(
-            'div', {
-                className: 'todo-container',
-            },
-            todos.map((todo, index) =>
-                React.createElement(
-                    'div', {
-                        className: 'todo-item-row',
-                        key: index,
-                    },
-                    todo,
-                )
-            ),
-
-        ),
-    ) */
 }
 }
 export default TodoApp;

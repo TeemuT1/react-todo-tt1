@@ -9,16 +9,6 @@ class Counter extends React.Component {
         return (
             <button 
                 onClick={() => { 
-                  /*  this.setState({
-                        counter: this.state.counter +1
-                    })
-                    */
-                 /*   this.setState(state => {
-                        return {
-                            counter: state.counter + 1
-                        }
-                    })
-                */
                     this.setState(state => ({
                             counter: state.counter + 1
                         }))
