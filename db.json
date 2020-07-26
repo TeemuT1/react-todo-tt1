@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "title": "yksi",
-      "completed": false,
-      "id": 1
-    },
-    {
       "title": "kaksi",
       "completed": false,
       "id": 4

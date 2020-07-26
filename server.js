@@ -5,7 +5,7 @@ const middlewares = jsonServer.defaults({
     static: './build'
 })
 
-const router jsonServer.router('db.json')
+const router = jsonServer.router('db.json')
 
 server.use(middlewares)
 server.use(router)
