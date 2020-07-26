@@ -1,11 +1,6 @@
 {
   "todos": [
     {
-      "title": "Learn react",
-      "completed": false,
-      "id": 1
-    },
-    {
       "title": "Learn jquery",
       "completed": false,
       "id": 3
