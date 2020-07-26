@@ -6,19 +6,19 @@
       "id": 1
     },
     {
-      "title": "Learn python",
-      "completed": false,
-      "id": 2
-    },
-    {
       "title": "Learn jquery",
       "completed": false,
       "id": 3
     },
     {
-      "title": "Click the counter test button above the input box",
+      "title": "Learn python",
       "completed": false,
-      "id": 4
+      "id": 5
+    },
+    {
+      "title": "Click the test counter button above",
+      "completed": false,
+      "id": 6
     }
   ]
 }
